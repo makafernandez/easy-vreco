@@ -1,0 +1,65 @@
+nav {
+  background-color: #FF6347!important;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 2px solid #fff;
+  box-shadow: 0 1px 0 0 #000;
+}
+
+#map {
+  height: 85vh;
+  width: 100%;
+}
+
+.btn {
+  background-color: #ecc30b!important;
+}
+
+.side-nav {
+  width: 100%!important;
+  background-color: #00000080!important;
+}
+
+.inputL {
+  width: 32%;
+}
+
+.btnLeft {
+  width: 20%;
+}
+
+.btnRight {
+  width: 16%;
+}
+
+.listSmall {
+  height: 33%;
+  padding: 5rem;
+  font-size: 10rem!important;
+}
+
+.routeIcons2 {
+  font-size: 5rem!important;
+  width: 6rem!important;
+  margin-right: 2rem!important;
+}
+
+.inputSm input, .inputSm label {
+  margin-left: 6rem!important;
+  color: #fff!important;
+  
+}
+
+.inputSm input {
+  font-size: 3rem!important;
+}
+
+.inputSm label {
+  font-size: 2rem!important;
+  margin-bottom: 2rem!important;
+}
+
+.input-field .prefix.active {
+  color: #ecc30b;
+}
